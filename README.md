@@ -1,2 +1,2 @@
-# CMR-VQA
+# CRISP
 The Code will be released coming soon.
